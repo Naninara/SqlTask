@@ -1,0 +1,25 @@
+-- create database Employee;
+-- create table EmployeeDetails(
+-- 	Emp_id int primary key not null,
+--     Emp_name varchar(30) not null,
+--     Job_name  varchar(30) not null,
+--     Manager_id int not null,
+--     Hire_date varchar(30) not null,
+--     Salary int not null,
+--     Dep_id int not null
+-- );
+-- insert into employeedetails values (1, 'mavin', 'SDE', 6, '2022-07-01', 75000, 6),
+-- (2, 'venkat', 'Manager', 4, '2009-07-16', 1000000, 1),
+-- (3, 'manikanta', 'Web Developer', 7, '2022-04-2009', 75000, 3),
+-- (4, 'siva', 'MarketingLead', 6, '2010-06-24', 40000, 2),
+-- (5, 'mani', 'Devops dev', 8, '2022-04-01', 50000, 6),
+-- (6, 'lokesh', 'fsdDeveloper', 4, '2020-06-24', 65000, 8),
+-- (7, 'Chandu', 'Manager', 9, '2021-06-30', 75000, 3),
+-- (8, 'shyam', 'frontEndDeveloper', 4, '2022-07-02', 80000, 1),
+-- (9, 'nani', 'backendDeveloper', 4, '2022-06-01', 75000, 2),
+-- (10, 'jagadish', 'AwsDeveloper', 4, '2020-03-01', 95000, 2);
+-- select Emp_Name,Salary from employeedetails;
+-- select distinct  job_name from employeedetails;
+-- update employeedetails set salary =950000 where Emp_Name="mavin";
+
+
